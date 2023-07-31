@@ -1,2 +1,2 @@
 # universal_extract
-metaprogramming toolset for ETL/ELT
+toolset for ETL/ELT
